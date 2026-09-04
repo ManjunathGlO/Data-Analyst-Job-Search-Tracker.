@@ -16,6 +16,50 @@ A responsive job application tracker built with **HTML, CSS and vanilla JavaScri
 - Responsive/mobile layout
 - Browser `localStorage` — no backend required
 
+## I built the complete HTML/CSS/JavaScript Data Analyst Job Search Tracker.
+
+🚀 Included
+
+📊 Professional dashboard
+
+➕ Add applications
+
+✏️ Edit applications
+
+🗑️ Delete applications
+
+🔍 Search
+
+🔽 Filter by status, location, priority and source
+
+📅 Automatic 5-business-day follow-up date
+
+🚨 Overdue follow-up tracking
+
+👤 Recruiter tracking
+
+🤝 Connection & referral tracking
+
+🎯 Interview tracking
+
+📈 Application/interview/offer analytics
+
+📊 Application status chart
+
+🌙 Dark mode
+
+💾 Browser localStorage
+
+📤 CSV export
+
+📥 CSV import
+
+📱 Responsive mobile design
+
+🌐 GitHub Pages ready
+
+📖 README with deployment instructions
+
 ## Run
 Open `index.html` in a browser. For development, VS Code + Live Server is recommended.
 
