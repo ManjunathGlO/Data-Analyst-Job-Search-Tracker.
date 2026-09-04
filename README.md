@@ -58,6 +58,33 @@ Get an immediate overview of your job search:
 * Applications over time
 
 ---
+## 📸 Screenshots
+
+### 📊 Dashboard
+
+<img width="1916" height="842" alt="Dashboard" src="https://github.com/user-attachments/assets/389e4e58-63aa-4170-8639-c194ad072761" />
+
+
+### 📝 Application Tracker
+
+<img width="1915" height="862" alt="Applications" src="https://github.com/user-attachments/assets/08da7921-7aca-4c88-9d8f-cd845586a7c2" />
+
+
+### 📅 Follow-up Management
+
+<img width="1917" height="862" alt="Follow-Ups" src="https://github.com/user-attachments/assets/cd77e714-5f93-465d-8745-d74b495fb05d" />
+
+
+### 📈 Analytics
+
+<img width="1912" height="865" alt="Analytics" src="https://github.com/user-attachments/assets/8bc80e9f-bece-46b4-8ba5-a3c2b36d8e51" />
+
+### 🌙 Dark Mode
+
+<img width="1912" height="861" alt="Dark mode" src="https://github.com/user-attachments/assets/95a39e85-1300-4994-b961-718e4b6f7f7d" />
+
+
+---
 
 ### 📝 Application Management
 
